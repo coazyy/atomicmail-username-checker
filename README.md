@@ -2,6 +2,13 @@
 
 A fast and configurable username availability checker for **AtomicMail**, built with Node.js.  
 The tool checks large username lists using rotating proxies and provides clean, real-time console output.
+---
+## Disclaimer
+
+This project is provided for educational and testing purposes only.  
+Do not use it to violate laws, terms of service, or for any malicious activity.
+
+The author provides this software “as is”, without warranty of any kind, and is not responsible for any misuse or damages resulting from its use.
 
 ---
 
